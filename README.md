@@ -5,6 +5,6 @@ Lets do all kinds of experiments and learn together
 .
 .
 .
-.
+
 achievements this year:
 **started tuch typing and reached 50+ typing speed on monkeytype.com
